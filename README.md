@@ -11,21 +11,25 @@
 ### [The Mars Volta](https://www.google.com/search?sa=X&rlz=1C5CHFA_enUS896US896&biw=1440&bih=821&sxsrf=ALeKk03dv0UmDPfsdxbvGuGbhiyuhJBJ4g:1618077684291&q=de-loused+in+the+comatorium+songs&stick=H4sIAAAAAAAAAONgFuLSz9U3MMzLqkiuUkJia4lmJ1vp55YWZybrJ-YkleZaFefnpRcvYlVMSdXNyS8tTk1RyMxTKMlIVUjOz00syS_KLM1VAKsBAKJgHZFVAAAA&npsic=0&ved=2ahUKEwjj3dyMofTvAhUZKVkFHZk9DIcQ1i8wHHoECAEQNA)
 ### [Working with my hands](https://www.etsy.com/shop/PryorMechanical)
 
+<br />
+
 <a href="https://www.linkedin.com/in/mdpryor/">
-<img  align="left" alt="Michael Pryor | LinkedIn" width="30px" src="https://raw.githubusercontent.com/michaeldavidpryor/svg/c0db982a39f39f8d40d63e61dc4fce7db056d603/linkedin.svg" />
+<img  align="left" alt="Michael Pryor | LinkedIn" width="40px" src="https://raw.githubusercontent.com/michaeldavidpryor/svg/c0db982a39f39f8d40d63e61dc4fce7db056d603/linkedin.svg" />
 </a>
 <a href="https://capsaicin-hurts.medium.com/">
-<img  align="left" alt="Michael Pryor | Medium" width="30px" src="https://raw.githubusercontent.com/michaeldavidpryor/svg/c0db982a39f39f8d40d63e61dc4fce7db056d603/medium.svg" />
+<img  align="left" alt="Michael Pryor | Medium" width="40px" src="https://raw.githubusercontent.com/michaeldavidpryor/svg/c0db982a39f39f8d40d63e61dc4fce7db056d603/medium.svg" />
 </a>
 <a href="https://twitter.com/capsaicin_hurts">
-<img  align="left" alt="Michael Pryor | Medium" width="30px" src="https://raw.githubusercontent.com/michaeldavidpryor/svg/c0db982a39f39f8d40d63e61dc4fce7db056d603/twitter.svg" />
+<img  align="left" alt="Michael Pryor | Medium" width="40px" src="https://raw.githubusercontent.com/michaeldavidpryor/svg/c0db982a39f39f8d40d63e61dc4fce7db056d603/twitter.svg" />
 </a>
 
 <br />
 
+
 ---
 
-### My Past Work
+
+## My Past Work
 
 #### [giphtionary](https://giphtionary-learning-on-loop.herokuapp.com/)
 
@@ -39,7 +43,7 @@
 
 ---
 
-### Current Project
+## Current Project
 
 [pryor mechanical cord company](https://michaeldavidpryor.github.io/pmcc/)
 
