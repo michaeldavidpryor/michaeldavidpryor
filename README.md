@@ -1,7 +1,7 @@
 # Hello
 
 
-<img align="center" alt="Michael Pryor | Banner" width="1214px" src="https://cdn.kapwing.com/final_6071d31f9768570069b62c24_594390.gif" />
+<img align="center" alt="Michael Pryor | Banner" width="1214px" src="https://github.com/michaeldavidpryor/michaeldavidpryor/blob/main/final_6071d31f9768570069b62c24_125077.gif?raw=true" />
 
 
 My name is Michael and I'm a former chef and currently _really_ good home cook. 
@@ -20,13 +20,13 @@ Thank you for visiting.
 
 #### [giphtionary](https://giphtionary-learning-on-loop.herokuapp.com/)
 
-<img  align="right" alt="Michael Pryor | giphtionary repo" width="750" src="https://cdn.kapwing.com/final_6070c3cf697c90002f3eda71_256169.gif" />
+<img alt="Michael Pryor | giphtionary repo" width="750" src="https://github.com/michaeldavidpryor/michaeldavidpryor/blob/main/final_6070c3cf697c90002f3eda71_473874.gif?raw=true" />
 
 <br />
 
 ####  [Homemade](https://michaeldavidpryor.github.io/HomeMade/)
 
-<img  align="center" alt="Michael Pryor | homemade repo" width="750" src="https://cdn.kapwing.com/final_6071c29b9b6fa900cb024bb3_938586.gif" />
+<img alt="Michael Pryor | homemade repo" width="750" src="https://github.com/michaeldavidpryor/michaeldavidpryor/blob/main/final_6071c29b9b6fa900cb024bb3_720024.gif?raw=true" />
 
 ---
 
