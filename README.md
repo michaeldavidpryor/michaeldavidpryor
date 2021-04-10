@@ -34,7 +34,7 @@ Thank you for visiting.
 
 [pryor mechanical cord company](https://michaeldavidpryor.github.io/pmcc/)
 
-<img  alt="Michael Pryor | PMCC"  src="https://github.com/michaeldavidpryor/svg/blob/main/Screen%20Shot%202021-04-10%20at%202.53.34%20PM.png?raw=true" />
+<img  alt="Michael Pryor | PMCC"  width= "750" src="https://github.com/michaeldavidpryor/svg/blob/main/Screen%20Shot%202021-04-10%20at%202.53.34%20PM.png?raw=true" />
 
 ---
 
