@@ -5,9 +5,6 @@
 
 ---
 
-![](https://cdn.kapwing.com/final_6070e65e44ad9400d2721e60_864878.gif) 
+![](https://cdn.kapwing.com/final_6070e5fe485e4c003f3db7d5_444294.gif)
 
----
-
-![](https://cdn.kapwing.com/final_6070e5fe485e4c003f3db7d5_927558.gif)
 
