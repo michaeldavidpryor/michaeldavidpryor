@@ -7,9 +7,9 @@
 ### My name is Michael and I'm a former chef and currently _really_ good home cook. I love to learn and I do that everyday working in web development.
 
 ### Some of my favorite things...
-## My family
-## [The Mars Volta](https://www.google.com/search?sa=X&rlz=1C5CHFA_enUS896US896&biw=1440&bih=821&sxsrf=ALeKk03dv0UmDPfsdxbvGuGbhiyuhJBJ4g:1618077684291&q=de-loused+in+the+comatorium+songs&stick=H4sIAAAAAAAAAONgFuLSz9U3MMzLqkiuUkJia4lmJ1vp55YWZybrJ-YkleZaFefnpRcvYlVMSdXNyS8tTk1RyMxTKMlIVUjOz00syS_KLM1VAKsBAKJgHZFVAAAA&npsic=0&ved=2ahUKEwjj3dyMofTvAhUZKVkFHZk9DIcQ1i8wHHoECAEQNA)
-## [Working with my hands](https://www.etsy.com/shop/PryorMechanical)
+- My family
+- [The Mars Volta](https://www.google.com/search?sa=X&rlz=1C5CHFA_enUS896US896&biw=1440&bih=821&sxsrf=ALeKk03dv0UmDPfsdxbvGuGbhiyuhJBJ4g:1618077684291&q=de-loused+in+the+comatorium+songs&stick=H4sIAAAAAAAAAONgFuLSz9U3MMzLqkiuUkJia4lmJ1vp55YWZybrJ-YkleZaFefnpRcvYlVMSdXNyS8tTk1RyMxTKMlIVUjOz00syS_KLM1VAKsBAKJgHZFVAAAA&npsic=0&ved=2ahUKEwjj3dyMofTvAhUZKVkFHZk9DIcQ1i8wHHoECAEQNA)
+- [Working with my hands](https://www.etsy.com/shop/PryorMechanical)
 
 <br />
 
