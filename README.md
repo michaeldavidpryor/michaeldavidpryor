@@ -9,24 +9,29 @@
 
 ## My Past Work
 
-#### [giphtionary](https://giphtionary-learning-on-loop.herokuapp.com/)
 
-<img alt="Michael Pryor | giphtionary repo" width="750" src="https://github.com/michaeldavidpryor/michaeldavidpryor/blob/main/final_6070c3cf697c90002f3eda71_473874.gif?raw=true" />
+<img align="left" alt="Michael Pryor | giphtionary repo" width="500" height="320" src="https://github.com/michaeldavidpryor/michaeldavidpryor/blob/main/final_6070c3cf697c90002f3eda71_473874.gif?raw=true" />
 
-<br />
+### [giphtionary](https://giphtionary-learning-on-loop.herokuapp.com/)
 
-####  [Homemade](https://michaeldavidpryor.github.io/HomeMade/)
+-----
 
-<img alt="Michael Pryor | homemade repo" width="750" src="https://github.com/michaeldavidpryor/michaeldavidpryor/blob/main/final_6071c29b9b6fa900cb024bb3_720024.gif?raw=true" />
+<img align="left" alt="Michael Pryor | homemade repo" width="500" height="320" src="https://github.com/michaeldavidpryor/michaeldavidpryor/blob/main/final_6071c29b9b6fa900cb024bb3_720024.gif?raw=true" />
 
+###  [Homemade](https://michaeldavidpryor.github.io/HomeMade/)
+
+----
 
 ## Current Project
 
-[pryor mechanical cord company](https://michaeldavidpryor.github.io/pmcc/)
+### [pryor mechanical cord company](https://michaeldavidpryor.github.io/pmcc/)
 
-<img  alt="Michael Pryor | PMCC"  width= "750" src="https://github.com/michaeldavidpryor/svg/blob/main/Screen%20Shot%202021-04-10%20at%202.53.34%20PM.png?raw=true" />
+<img align="right" alt="Michael Pryor | PMCC"  width="500" height="320"  src="https://github.com/michaeldavidpryor/svg/blob/main/Screen%20Shot%202021-04-10%20at%202.53.34%20PM.png?raw=true" />
 
----
+----
+
+<br />
+
 
 ### Some of my favorite things...
 - My family
@@ -35,7 +40,6 @@
 
 ### Get in Touch
 
-<br />
 
 <a href="https://www.linkedin.com/in/mdpryor/">
 <img  align="left" alt="Michael Pryor | LinkedIn" width="40px" src="https://raw.githubusercontent.com/michaeldavidpryor/svg/c0db982a39f39f8d40d63e61dc4fce7db056d603/linkedin.svg" />
