@@ -1,5 +1,12 @@
 # Hello
 
+#### My name is Michael and I'm a former chef and currently _really_ good home cook. I love to learn and I do that everyday working in web development.
+
+<p align="center">
+<img  alt="Michael Pryor | Banner" width="750px"   src="https://github.com/michaeldavidpryor/michaeldavidpryor/blob/main/final_6071d31f9768570069b62c24_125077.gif?raw=true" />
+</p>
+<br />
+<p align="center">
 <a href="https://www.linkedin.com/in/mdpryor/">
 <img  align="left" alt="Michael Pryor | LinkedIn" width="40px" src="https://raw.githubusercontent.com/michaeldavidpryor/svg/c0db982a39f39f8d40d63e61dc4fce7db056d603/linkedin.svg" />
 </a>
@@ -9,17 +16,8 @@
 <a href="https://twitter.com/capsaicin_hurts">
 <img  align="left" alt="Michael Pryor | Medium" width="40px" src="https://raw.githubusercontent.com/michaeldavidpryor/svg/c0db982a39f39f8d40d63e61dc4fce7db056d603/twitter.svg" />
 </a>
-
-<br />
-
-My name is Michael and I'm a former chef and currently _really_ good home cook. I love to learn and I do that everyday working in web development.
-
-<p align="center">
-<img  alt="Michael Pryor | Banner" width="750px"   src="https://github.com/michaeldavidpryor/michaeldavidpryor/blob/main/final_6071d31f9768570069b62c24_125077.gif?raw=true" />
 </p>
-
 <br />
-
 #  Past Work
 
 ###  [giphtionary](https://giphtionary-learning-on-loop.herokuapp.com/)
