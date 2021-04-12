@@ -1,11 +1,4 @@
 # Hello
- My name is Michael and I'm a former chef and currently _really_ good home cook. I love to learn and I do that everyday working in web development.
-
-<p align="center">
-<img  alt="Michael Pryor | Banner" width="750px"   src="https://github.com/michaeldavidpryor/michaeldavidpryor/blob/main/final_6071d31f9768570069b62c24_125077.gif?raw=true" />
-</p>
-
-<br />
 
 <a href="https://www.linkedin.com/in/mdpryor/">
 <img  align="left" alt="Michael Pryor | LinkedIn" width="40px" src="https://raw.githubusercontent.com/michaeldavidpryor/svg/c0db982a39f39f8d40d63e61dc4fce7db056d603/linkedin.svg" />
@@ -19,7 +12,11 @@
 
 <br />
 
+My name is Michael and I'm a former chef and currently _really_ good home cook. I love to learn and I do that everyday working in web development.
 
+<p align="center">
+<img  alt="Michael Pryor | Banner" width="750px"   src="https://github.com/michaeldavidpryor/michaeldavidpryor/blob/main/final_6071d31f9768570069b62c24_125077.gif?raw=true" />
+</p>
 
 <br />
 
@@ -27,13 +24,13 @@
 
 ###  [giphtionary](https://giphtionary-learning-on-loop.herokuapp.com/)
 
-<img  alt="Michael Pryor | giphtionary repo" width="500" src="https://github.com/michaeldavidpryor/michaeldavidpryor/blob/main/final_6070c3cf697c90002f3eda71_473874.gif?raw=true" />
+<img alt="Michael Pryor | giphtionary repo" width="500" src="https://github.com/michaeldavidpryor/michaeldavidpryor/blob/main/final_6070c3cf697c90002f3eda71_473874.gif?raw=true" />
 
 <br />
 
 ### [Homemade](https://michaeldavidpryor.github.io/HomeMade/)
 
-<img alt="Michael Pryor | homemade repo" width="500" hsrc="https://github.com/michaeldavidpryor/michaeldavidpryor/blob/main/final_6071c29b9b6fa900cb024bb3_720024.gif?raw=true" /> 
+<img alt="Michael Pryor | homemade repo" width="500" src="https://github.com/michaeldavidpryor/michaeldavidpryor/blob/main/final_6071c29b9b6fa900cb024bb3_720024.gif?raw=true" /> 
 
 <br />
 
@@ -42,7 +39,7 @@
 #### [pryor mechanical cord company](https://michaeldavidpryor.github.io/pmcc/)
 
 
-<img  alt="Michael Pryor | PMCC" width="500" src="https://github.com/michaeldavidpryor/svg/blob/main/Screen%20Shot%202021-04-10%20at%202.53.34%20PM.png?raw=true" />
+<img alt="Michael Pryor | PMCC" width="500" src="https://github.com/michaeldavidpryor/svg/blob/main/Screen%20Shot%202021-04-10%20at%202.53.34%20PM.png?raw=true" />
 
 <br />
 
