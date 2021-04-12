@@ -1,6 +1,6 @@
 # Hello
 
-### My name is Michael and I'm a former chef and currently _really_ good home cook. I love to learn and I do that everyday working in web development.
+### I love to learn and work hard. Fortunately I do that everyday working in web development.
 
 ----
 
@@ -28,9 +28,15 @@
 
 #  Past Work
 
-###  [giphtionary](https://giphtionary-learning-on-loop.herokuapp.com/)
+
 
 <img alt="Michael Pryor | giphtionary repo" width="500" src="https://github.com/michaeldavidpryor/michaeldavidpryor/blob/main/final_6070c3cf697c90002f3eda71_473874.gif?raw=true" />
+
+<br />
+
+<p align="right">
+###  [giphtionary](https://giphtionary-learning-on-loop.herokuapp.com/)
+</p>
 
 <br />
 
