@@ -10,6 +10,8 @@
 
 <br />
 
+----
+
 <p align="center">
 <a href="https://www.linkedin.com/in/mdpryor/">
 <img alt="Michael Pryor | LinkedIn" width="50px" src="https://raw.githubusercontent.com/michaeldavidpryor/svg/c0db982a39f39f8d40d63e61dc4fce7db056d603/linkedin.svg" />
