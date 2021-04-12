@@ -29,18 +29,13 @@
 #  Past Work
 
 
+## [giphtionary](https://giphtionary-learning-on-loop.herokuapp.com/)
 
 <img alt="Michael Pryor | giphtionary repo" width="500" src="https://github.com/michaeldavidpryor/michaeldavidpryor/blob/main/final_6070c3cf697c90002f3eda71_473874.gif?raw=true" />
 
 <br />
 
-<p align="right">
-###  [giphtionary](https://giphtionary-learning-on-loop.herokuapp.com/)
-</p>
-
-<br />
-
-### [Homemade](https://michaeldavidpryor.github.io/HomeMade/)
+## [Homemade](https://michaeldavidpryor.github.io/HomeMade/)
 
 <img alt="Michael Pryor | homemade repo" width="500" src="https://github.com/michaeldavidpryor/michaeldavidpryor/blob/main/final_6071c29b9b6fa900cb024bb3_720024.gif?raw=true" /> 
 
@@ -48,7 +43,7 @@
 
 # Current Project
 
-#### [pryor mechanical cord company](https://michaeldavidpryor.github.io/pmcc/)
+## [pryor mechanical cord company](https://michaeldavidpryor.github.io/pmcc/)
 
 
 <img alt="Michael Pryor | PMCC" width="500" src="https://github.com/michaeldavidpryor/svg/blob/main/Screen%20Shot%202021-04-10%20at%202.53.34%20PM.png?raw=true" />
