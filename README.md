@@ -1,6 +1,8 @@
 # Hello
 
-#### My name is Michael and I'm a former chef and currently _really_ good home cook. I love to learn and I do that everyday working in web development.
+### My name is Michael and I'm a former chef and currently _really_ good home cook. I love to learn and I do that everyday working in web development.
+
+----
 
 <p align="center">
 <img  alt="Michael Pryor | Banner" width="1218px"   src="https://github.com/michaeldavidpryor/michaeldavidpryor/blob/main/final_6071d31f9768570069b62c24_125077.gif?raw=true" />
