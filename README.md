@@ -1,6 +1,6 @@
 # Hello
 
-### I love to learn and work hard. Fortunately I do that everyday working in web development.
+### I love to learn and work hard. Fortunately, I do that everyday working in web development.
 
 ----
 
