@@ -1,5 +1,5 @@
 ## michael pryor — software engineer
-### [contact](<mailto:mdpcaps@gmail.com>)
+### [contact](<mailto:mdpcaps@pm.me>)
 
 
 
